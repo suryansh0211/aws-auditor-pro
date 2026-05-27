@@ -1,0 +1,43 @@
+AWS Optimization Business
+
+1. Customer
+- Small startups
+- SaaS founders
+- Indie hackers
+- Developers using AWS
+
+2. Problem
+- High AWS bills
+- Unused resources
+- No visibility into cloud usage
+
+3. Solution
+- AWS infrastructure audit
+- Detect waste
+- Give optimization recommendations
+
+4. Tools
+- AWS Auditor Pro
+
+5. Services
+- Free audit
+- Cost optimization
+- Monthly monitoring
+
+6. Revenue
+- Audit fee
+- Optimization projects
+- Retainer/monitoring
+
+7. Audit Workflow
+- Inspect AWS resources
+- Analyze usage
+- Create backup/snapshot
+- Recommend cleanup
+- Estimate savings
+
+8. Important AWS Services
+- EC2
+- EBS
+- Snapshots
+- S3
